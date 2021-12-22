@@ -14,7 +14,7 @@ from NoobXbot import (
     app, BOT_USERNAME,
     BOT_ID,
 )
-from NoobXbot.NoobXUtilities.tgcallsrun import (
+from NoobXbot.NoobXUtilities.noobxruns import (
     music,
     convert,
     download,
