@@ -9,8 +9,8 @@ from motor.motor_asyncio import AsyncIOMotorClient as MongoClient
 from pyrogram import Client
 from pyrogram import Client as Bot
 
-from Music import config
-from Music.config import (
+from NoobXbot import config
+from NoobXbot.config import (
     API_HASH,
     API_ID,
     BOT_TOKEN,
