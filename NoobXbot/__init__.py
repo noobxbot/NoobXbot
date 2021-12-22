@@ -100,7 +100,7 @@ def all_info(app, client):
 print("[INFO]: STARTING BOT CLIENT")
 app.start()
 print("[INFO]: STARTING ASSISTANT CLIENT")
-client.start()
+claint.start()
 print("[INFO]: LOADING BOT/ASSISTANT PROFILE INFO")
 all_info(app, client)
 print("[INFO]: LOADED BOT/ASSISTANT PROFILE INFO")
