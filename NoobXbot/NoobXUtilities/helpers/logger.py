@@ -1,5 +1,5 @@
 from NoobXbot.config import LOG_GROUP_ID
-from NoobXbot.NoobXUtilities.tgcallsrun import ASS_ACC
+from NoobXbot.NoobXUtilities.noobxruns import ASS_ACC
 
 
 async def LOG_CHAT(message, what):
