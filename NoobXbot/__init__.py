@@ -1,7 +1,7 @@
 print("[INFO]: INITIALIZING")
 import asyncio
 import importlib
-import time
+
 
 import uvloop
 from aiohttp import ClientSession
@@ -53,7 +53,7 @@ async def load_sudoers():
 
 loop = asyncio.get_event_loop()
 loop.run_until_complete(load_sudoers()
-START_TIME = time.time()
+
 loop = asyncio.get_event_loop()
 
 
