@@ -8,7 +8,7 @@
 ### DEPLOY TO HEROKU TOD!
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/userderdead/NoobXbot)
 
-### AMBIL STRING TOD
+### GENARATE STRING
 Get pyrogram (p)  `SESSION` from here:
 
 [![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@AkashHazra/userderdeadreplit#main.py)
