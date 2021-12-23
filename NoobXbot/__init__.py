@@ -53,7 +53,7 @@ async def load_sudoers():
 
 loop = asyncio.get_event_loop()
 loop.run_until_complete(load_sudoers()
-NOOBXBOT_START_TIME = time.time()
+NoobX_START_TIME = time.time()
 loop = asyncio.get_event_loop()
 
 
