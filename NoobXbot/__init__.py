@@ -54,7 +54,7 @@ async def load_sudoers():
 loop = asyncio.get_event_loop()
 loop.run_until_complete(load_sudoers())
 Music_START_TIME = time.time()
-loop = asynco.get_event_loop()
+loop = asyncio.get_event_loop()
 
 
 BOT_ID = 0
